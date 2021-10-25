@@ -1,6 +1,7 @@
 # Cryptocurrencies
 unsupervised machine learning
 ## Purpose
+The purpose of this project was to use unsupervised machine learning to cluster data into groups to discover unknown patterns in cryptocurrencies. In this project, we focused on preprocessing the data for Principal Components Analysis, performing PCA to reduce the data dimensions to relevant numeric data, clustering the data using K-Means, and visualizing the data with Plotly Express using Python. 
 
 ## Results
 
@@ -28,5 +29,4 @@ unsupervised machine learning
 <img width="522" alt="Screen Shot 2021-10-20 at 9 58 40 PM" src="https://user-images.githubusercontent.com/85946042/138203849-425ff8c3-f822-4eb5-bd4f-24522b31a595.png">
 
 ## Summary
-
-what was accomplished
+The final analysis displays four classes of cryptocurrencies that were divided into clusters based on their relationships between Total Coins Mined and Total Coin Supply. The results of this analysis would be useful to someone interested in investing into cryptocurrencies.
